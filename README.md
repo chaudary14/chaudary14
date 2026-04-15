@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/Stanford_CIP-Section_Leader_2026-8C1515?style=flat" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Harvard_CS50-Puzzle_Day_10%2F10-A41034?style=flat" />
+  <a href="https://drive.google.com/file/d/1CRjmISwuhWRQgT0wV34cvDuQn4xmQpM9/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Harvard_CS50-Puzzle_Day_10%2F10-A41034?style=flat" />
+  </a>
 </p>
 
 ---
