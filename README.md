@@ -54,24 +54,8 @@ in Software Engineering (SRSE) 2026 program.
 
 ---
 
-## Projects
 
-### CLI Task Manager
-A command-line task management tool with full CRUD, JSON-based persistence,
-priority queues, and input validation.
-`Python` `File I/O` `Data Structures`
 
-### Password Generator & Strength Analyzer
-Generates cryptographically random passwords with configurable rules and
-entropy-based strength scoring.
-`Python` `Security` `Regex`
-
-### Responsive Portfolio Website
-Mobile-first static portfolio site with reusable CSS components and
-optimized load performance.
-`HTML5` `CSS3` `JavaScript`
-
----
 
 ## Certifications
 
@@ -101,6 +85,22 @@ optimized load performance.
 **chaudary14/chaudary14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Projects
+
+### CLI Task Manager
+A command-line task management tool with full CRUD, JSON-based persistence,
+priority queues, and input validation.
+`Python` `File I/O` `Data Structures`
+
+### Password Generator & Strength Analyzer
+Generates cryptographically random passwords with configurable rules and
+entropy-based strength scoring.
+`Python` `Security` `Regex`
+
+### Responsive Portfolio Website
+Mobile-first static portfolio site with reusable CSS components and
+optimized load performance.
+`HTML5` `CSS3` `JavaScript`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
