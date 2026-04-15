@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-hassan14m-0077B5?style=flat&logo=linkedin" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Stanford_CIP-Section_Leader_2026-8C1515?style=flat" />
+  <a href="https://drive.google.com/file/d/1HiDOivPfCsfkj50JFtnCuRNpe5DnOIlI/view">
+    <img src="https://img.shields.io/badge/Stanford_CIP-Section_Leader_2026-8C1515?style=flat" />
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Harvard_CS50-Puzzle_Day_10%2F10-A41034?style=flat" />
 </p>
