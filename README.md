@@ -37,6 +37,16 @@ I'm a 3rd-year CS student from Lahore, Pakistan, interested in
 
 ---
 
+## ⚡ Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,js,react,nodejs,django,html,css,mongodb,git,linux,vscode&perline=8" />
+</p>
+
+---
+
+
+
 ## Skills
 
 **Languages**
