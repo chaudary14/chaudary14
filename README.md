@@ -61,10 +61,10 @@ in Software Engineering (SRSE) 2026 program.
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Supervised ML: Regression & Classification | Stanford / Andrew Ng (Coursera) | 2024 |
-| CS50: Intro to Programming with Python | Harvard (edX) | 2024 |
-| Python for Everybody | University of Michigan (Coursera) | 2023 |
-| CPA: Programming Essentials in C++ | CISCO Networking Academy | 2023 |
+| [Supervised ML: Regression & Classification](https://drive.google.com/file/d/17bYZpRHoCdD5LMRl6ur3kQxSV70ZALZ5/view?usp=sharing) | Stanford / Andrew Ng (Coursera) | 2024 |
+| [CS50: Intro to Programming with Python](https://drive.google.com/file/d/1eWWVvc_jyXWXXvi8dgb06LDGDvskMNms/view?usp=sharing) | Harvard (edX) | 2024 |
+| [Python for Everybody](https://drive.google.com/file/d/1zeFldNEpAmmKC9-XxPVzFvZ_NkqqMVpt/view?usp=sharing) | University of Michigan (Coursera) | 2023 |
+| [CPA: Programming Essentials in C++](https://drive.google.com/file/d/150cpSHUIqs_EnELL5mRumMUJKpqDamkl/view?usp=sharing) | CISCO Networking Academy | 2023 |
 
 ---
 
