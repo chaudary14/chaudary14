@@ -25,15 +25,14 @@
 
 ## About me
 
-I'm a 3rd-year CS student from Lahore, Pakistan, interested in the intersection of
-**AI and software engineering** — specifically how large language models can reason
-about, test, and repair code. I'm currently applying to the UIUC++ Summer Research
-in Software Engineering (SRSE) 2026 program.
+I'm a 3rd-year CS student from Lahore, Pakistan, interested in
+**AI/ML and software engineering**.
 
 - 🎓 CGPA: **3.64 / 4.0** — Virtual University of Pakistan (6th semester)
 - 🏫 Section Leader at **Stanford Code in Place 2026** — teaching Python to 15–20 students globally
 - 🧩 Solved **10/10 puzzles** at Harvard CS50 Puzzle Day
 - 💡 Competed in **CALICO** competitive programming contest at UC Berkeley
+- 💻 Received a laptop from the Government of Pakistan in recognition of academic excellence
 - 📍 Based in Lahore, Pakistan
 
 ---
@@ -68,19 +67,14 @@ in Software Engineering (SRSE) 2026 program.
 
 ---
 
-## GitHub stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan14m&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan14m&layout=compact&theme=default&hide_border=true" height="150" />
+  <b>Open to research collaborations and SE internships — reach me at 
+    <a href="mailto:muhammadhhassan015@gmail.com">muhammadhhassan015@gmail.com</a>
+  </b>
 </p>
 
----
 
-<p align="center">
-  <sub>Open to research collaborations and SE internships — reach me at muhammadhhassan015@gmail.com</sub>
-</p>
+
 <!--
 **chaudary14/chaudary14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
